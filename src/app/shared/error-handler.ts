@@ -1,1 +1,3 @@
-class ErrorHandler {}
+class ErrorHandler {
+  constructor() {}
+}
